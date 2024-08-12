@@ -1,0 +1,395 @@
+[
+    {
+      "questionNo": "Q1.",
+      "question": "Complete the word: _ _ ALE.<img src='./images/whale.jpg' alt='goldFish' width='80px' height='60px'>",
+      "Q_sound":"",
+      "options": [
+        {
+          "text": "WA",
+          "audio": ""
+        },
+        {
+          "text": "WH",
+          "audio": ""
+        },
+        {
+          "text": "HW",
+          "audio": ""
+        }
+      ],
+      "correct": 1
+    },
+    {
+        "questionNo": "Q2.",
+        "question": "“Wh” words like “What” and “Why” are:",
+        "Q_sound":"",
+        "options": [
+          {
+            "text": "Color words",
+            "audio": ""
+          },
+          {
+            "text": "Animal names",
+            "audio": ""
+          },
+          {
+            "text": "Question words",
+            "audio": ""
+          },
+          {
+            "text": "Food names",
+            "audio": ""
+          }
+        ],
+        "correct": 2
+      },
+      {
+        "questionNo": "Q3.",
+        "question": "Which word is a question word? ",
+        "Q_sound":"",
+        "options": [
+          {
+            "text": "Water",
+            "audio": ""
+          },
+          {
+            "text": "Why",
+            "audio": ""
+          },
+          {
+            "text": "Window",
+            "audio": ""
+          },
+          {
+            "text": "Wave",
+            "audio": ""
+          }
+        ],
+        "correct": 1
+      },
+      {
+        "questionNo": "Q4.",
+        "question": "Which word has the same starting sound as \"water\"?",
+        "Q_sound":"",
+        "options": [
+          {
+            "text": "🔉What",
+            "audio": "./sound/what.mp3"
+          },
+          {
+            "text": "🔉When",
+            "audio": "./sound/when.mp3"
+          },
+          {
+            "text": "🔉Wave",
+            "audio": "./sound/wave.mp3"
+          },
+          {
+            "text": "🔉Where",
+            "audio": "./sound/where.mp3"
+          }
+        ],
+        "correct": 2
+      },{
+        "questionNo": "Q5.",
+        "question": "Sound of the word: <img src='./images/whale.jpg' alt='goldFish' width='80px' height='60px'>. What sound does this word make?",
+        "Q_sound":"./sound/whale.mp3",
+        "options": [
+          {
+            "text": "W sound",
+            "audio": ""
+          },
+          {
+            "text": "Wh sound",
+            "audio": ""
+          }
+        ],
+        "correct": 1
+      },
+      {
+        "questionNo": "Q6.",
+        "question": "Sound of the word: <img src='./images/why.jpg' alt='goldFish' width='80px' height='60px'>. What sound does this word make?",
+        "Q_sound":"./sound/why.mp3",
+        "options": [
+          {
+            "text": "W sound",
+            "audio": ""
+          },
+          {
+            "text": "Wh sound",
+            "audio": ""
+          }
+        ],
+        "correct": 1
+      },
+      {
+        "questionNo": "Q7.",
+        "question": "Sound of the word: <img src='./images/1.jpg' alt='goldFish' width='80px' height='60px'>. What sound does this word make? ",
+        "Q_sound":"./sound/water.mp3",
+        "options": [
+          {
+            "text": "W sound",
+            "audio": ""
+          },
+          {
+            "text": "Wh sound",
+            "audio": ""
+          }
+        ],
+        "correct": 0
+      },
+      {
+        "questionNo": "Q8.",
+        "question": " Sound of the word: <img src='./images/wheel.jpg' alt='goldFish' width='80px' height='60px'>. What sound does this word make? ",
+        "Q_sound":"./sound/wheel.mp3",
+        "options": [
+          {
+            "text": "W sound",
+            "audio": ""
+          },
+          {
+            "text": "Wh sound",
+            "audio": ""
+          }
+        ],
+        "correct": 1
+      },
+      {
+        "questionNo": "Q9.",
+        "question": "Sound of the word: <img src='./images/4.jpg' alt='goldFish' width='80px' height='60px'>. What sound does this word make? ",
+        "Q_sound":"./sound/wind.mp3",
+        "options": [
+          {
+            "text": "W sound",
+            "audio": ""
+          },
+          {
+            "text": "Wh sound",
+            "audio": ""
+          }
+        ],
+        "correct": 0
+      },
+      {
+        "questionNo": "Q10.",
+        "question": "Which word is not a question word? ",
+        "Q_sound":"",
+        "options": [
+          {
+            "text": "What",
+            "audio": ""
+          },
+          {
+            "text": "Where",
+            "audio": ""
+          },
+          {
+            "text": "When",
+            "audio": ""
+          },
+          {
+            "text": "Wish",
+            "audio": ""
+          }
+        ],
+        "correct": 3
+      },
+      {
+        "questionNo": "Q11.",
+        "question": "Which word has a different starting sound? ",
+        "Q_sound":"",
+        "options": [
+          {
+            "text": "🔉",
+            "audio": "./sound/white.mp3"
+          },
+          {
+            "text": "🔉",
+            "audio": "./sound/whale.mp3"
+          },
+          {
+            "text": "🔉",
+            "audio": "./sound/wheel.mp3"
+          },
+          {
+            "text": "🔉",
+            "audio": "./sound/wall.mp3"
+          }
+        ],
+        "correct": 3
+      },
+      {
+        "questionNo": "Q12.",
+        "question": " Which word starts with a soft \"W\" sound?",
+        "Q_sound":"",
+        "options": [
+          {
+            "text": "🔉",
+            "audio": "./sound/what.mp3"
+          },
+          {
+            "text": "🔉",
+            "audio": "./sound/wing.mp3"
+          },
+          {
+            "text": "🔉",
+            "audio": "./sound/when.mp3"
+          },
+          {
+            "text": "🔉",
+            "audio": "./sound/which.mp3"
+          }
+        ],
+        "correct": 1
+      },
+      {
+        "questionNo": "Q13.",
+        "question": "Which word is spelled correctly?",
+        "Q_sound":"",
+        "options": [
+          {
+            "text": "Water",
+            "audio": ""
+          },
+          {
+            "text": "Whater",
+            "audio": ""
+          },
+          {
+            "text": "Hwat",
+            "audio": ""
+          },
+          {
+            "text": "Wen",
+            "audio": ""
+          }
+        ],
+        "correct": 0
+      },{
+        "questionNo": "Q14.",
+        "question": "Which word starts with a /wha/  sound? ",
+        "Q_sound":"",
+        "options": [
+          {
+            "text": "🔉",
+            "audio": "./sound/wood.mp3"
+          },
+          {
+            "text": "🔉",
+            "audio": "./sound/whale.mp3"
+          },
+          {
+            "text": "🔉",
+            "audio": "./sound/wind.mp3"
+          },
+          {
+            "text": "🔉",
+            "audio": "./sound/world.mp3"
+          }
+        ],
+        "correct": 1
+      },
+      {
+        "questionNo": "Q15.",
+        "question": "Which \"wh\" word would you use to ask about a place?",
+        "Q_sound":"",
+        "options": [
+          {
+            "text": "Who",
+            "audio": ""
+          },
+          {
+            "text": "Where",
+            "audio": ""
+          },
+          {
+            "text": "Why",
+            "audio": ""
+          }
+        ],
+        "correct": 1
+      }
+      ,
+      {
+        "questionNo": "Q16.",
+        "question": "  Which \"wh\" word would you use to ask about a reason?",
+        "Q_sound":"",
+        "options": [
+          {
+            "text": "Why",
+            "audio": ""
+          },
+          {
+            "text": "Where",
+            "audio": ""
+          },
+          {
+            "text": "Who",
+            "audio": ""
+          }
+        ],
+        "correct": 0
+      },
+      
+      {
+        "questionNo": "Q17.",
+        "question": "Which \"wh\" word would you use to ask about a thing? ",
+        "Q_sound":"",
+        "options": [
+          {
+            "text": "When",
+            "audio": ""
+          },
+          {
+            "text": "What",
+            "audio": ""
+          },
+          {
+            "text": "Who",
+            "audio": ""
+          }
+        ],
+        "correct": 1
+      },
+      {
+        "questionNo": "Q18.",
+        "question": " Which \"wh\" word would you use to ask about something you don't understand? ",
+        "Q_sound":"",
+        "options": [
+          {
+            "text": "Why",
+            "audio": ""
+          },
+          {
+            "text": "Where",
+            "audio": ""
+          },
+          {
+            "text": "Who",
+            "audio": ""
+          }
+        ],
+        "correct": 0
+      },
+      {
+        "questionNo": "Q19.",
+        "question": " Which \"wh\" word would you use to ask about a person?",
+        "Q_sound":"",
+        "options": [
+          {
+            "text": "What",
+            "audio": ""
+          },
+          {
+            "text": "When",
+            "audio": ""
+          },
+          {
+            "text": "Who",
+            "audio": ""
+          }
+        ],
+        "correct": 2
+      }
+  ]
+  

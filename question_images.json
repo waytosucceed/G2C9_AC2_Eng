@@ -1,0 +1,22 @@
+[
+  {
+    "questionNo": "Q1.",
+    "question": "Which word starts with a \"Wh\" sound? ",
+    
+    "optionsImages": [
+      "./images/1.jpg",
+      "./images/2.jpg",
+      "./images/3.jpg",
+      "./images/4.jpg"
+    ],
+    "correct": 2,
+    "optionsAudio": [
+      "./sound/water.mp3",
+      "./sound/wolf.mp3",
+      "./sound/where.mp3",
+      "./sound/wind.mp3"
+    ]
+  }
+      
+  ]
+  
